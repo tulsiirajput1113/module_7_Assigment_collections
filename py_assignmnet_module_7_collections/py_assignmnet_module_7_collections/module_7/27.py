@@ -3,7 +3,7 @@
 # Write a Python program to update a value in a dictionary.
 
 my_dict = {
-    "name": "jinal",
+    "name": "tulsi",
     "age": 20
 }
 
