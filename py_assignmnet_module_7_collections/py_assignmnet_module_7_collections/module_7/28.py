@@ -4,7 +4,7 @@
 
 keys = ["name", "age", "city"]
 
-values = ["jinal", 20, "Ahmedabad"]
+values = ["tulsi", 20, "Ahmedabad"]
 
 my_dict = {}
 
