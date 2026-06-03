@@ -4,7 +4,7 @@
 
 list1 = ["name", "age", "city"]
 
-list2 = ["Aman", 20, "Ahmedabad"]
+list2 = ["jinal", 21, "Ahmedabad"]
 
 my_dict = {}
 
