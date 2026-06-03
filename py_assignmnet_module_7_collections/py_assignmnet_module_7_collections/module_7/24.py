@@ -3,8 +3,8 @@
 # Write a Python program to access values using dictionary keys.
 
 my_dict = {
-    "name": "jinal",
-    "age": 21,
+    "name": "tulsi",
+    "age": 20,
     "city": "Ahmedabad"
 }
 
