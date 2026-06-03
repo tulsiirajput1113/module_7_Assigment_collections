@@ -3,11 +3,11 @@
 # Write a Python program to update a value at a particular key in a dictionary
 
 my_dict = {
-    "name": "jinal",
+    "name": "tulsi",
     "age": 20,
     "city": "Ahmedabad"
 }
 
-my_dict["city"] = "Surat"
+my_dict["city"] = "junagadh"
 
 print(my_dict)
